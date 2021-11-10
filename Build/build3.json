@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "UNLIMITED CHALLENGE",
+"productVersion": "0.1",
+"dataUrl": "build3.data.unityweb",
+"wasmCodeUrl": "build3.wasm.code.unityweb",
+"wasmFrameworkUrl": "build3.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "build3.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.32f1"
+}
